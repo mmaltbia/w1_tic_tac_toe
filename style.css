@@ -1,3 +1,18 @@
+
+
+body {
+	background-color: ;
+	color: ;
+}
+
+h1 {
+	font-family: Montserrat;
+}
+
+p {
+	font-family: Raleway;
+}
+
 #board {
   margin-top: 10px;
 }
@@ -6,3 +21,14 @@
   border: 1px solid black;
   height: 150px;
 }
+
+/* Fix height issue later */
+.col-xs-12 {
+	height: 100%;
+}
+
+div.col-xs-4.box {
+	font-family: Montserrat;
+
+}
+
